@@ -16,7 +16,7 @@ import { store } from "../app/store";
 
 const seoTitle = "Maango - Trusted Home Service Pros in South Africa";
 const seoDescription = "Post a job, compare vetted local pros, and hire with confidence. Maango connects South African homeowners with subscribed, verified service providers.";
-const siteUrl = "https://myqwiktip-dev.web.app";
+const siteUrl = "https://maamgoonline.web.app";
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "WebSite",

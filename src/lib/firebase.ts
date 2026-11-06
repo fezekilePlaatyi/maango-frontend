@@ -6,13 +6,13 @@ import { getFunctions } from "firebase/functions";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCgWjS3XcXcxReBqiUSJoxKUmP1z6G6nD8",
-  authDomain: "myqwiktip-dev.firebaseapp.com",
-  projectId: "myqwiktip-dev",
-  storageBucket: "myqwiktip-dev.firebasestorage.app",
-  messagingSenderId: "65767116084",
-  appId: "1:65767116084:web:2d5160415a9c16ba212961",
-  measurementId: "G-J36578WYXM",
+  apiKey: "AIzaSyBvP_2jadwuuhQU3jJxWIHqWSSvukdfYLg",
+  authDomain: "maamgoonline.firebaseapp.com",
+  projectId: "maamgoonline",
+  storageBucket: "maamgoonline.firebasestorage.app",
+  messagingSenderId: "842655598000",
+  appId: "1:842655598000:web:1bd90faa7fa71b94a9c275",
+  measurementId: "G-TNWPLVZGH6",
 };
 
 export const firebaseApp = getApps().length ? getApps()[0] : initializeApp(firebaseConfig);
